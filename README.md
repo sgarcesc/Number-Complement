@@ -1,0 +1,1 @@
+The complement of a number is defined here as the number's bitwise inversion from its highest-order 1-bit through its lowest-order bit. For example, the number n = 5 is represented as 00000101 in binary. The binary complement of n is 010, which is 2 in decimal notation.
